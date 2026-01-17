@@ -1,2 +1,2 @@
 # Logic_and_Algorithms
-Registro dos meus exercícios evolução, comentando os códigos. Explicando o que cada função faz.
+Registro dos meus exercícios, evolução e comentando os códigos. Explicando o que cada função faz.
